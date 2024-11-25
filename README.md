@@ -45,9 +45,7 @@ Hey! I'm Md Muntazir Alam. I mix creativity with code to build delightful experi
 - 📖 Always learning new tricks.  
 - 🖌️ In my free time, I solve leetcode problems.
 - 🌟 Let's connect and create something amazing! 🌟
-- :mailbox:How to reach me: 
-
-- 📫 Contact:   [<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB1ZWI3OHQzNmZma3ppa3RwM3NveHJyeHJ5OGd1bjZ0c2xxazhoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnxkFNtP0MOfve1Tax/giphy.gif" alt="Email" width="32" height="32" >](mdmuntaziralamkne@gmail.com?subject=Hello&body=I%20saw%20your%20GitHub%20profile!)
+- 📫 Contact:   [<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB1ZWI3OHQzNmZma3ppa3RwM3NveHJyeHJ5OGd1bjZ0c2xxazhoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnxkFNtP0MOfve1Tax/giphy.gif" alt="Email" width="30" height="25" >](mailto:mdmuntaziralamkne@gmail.com?subject=Hello&body=I%20saw%20your%20GitHub%20profile!)
   
 ---
 
